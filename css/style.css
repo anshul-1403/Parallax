@@ -45,7 +45,6 @@
     font-size: var(--font-size-h2);
     letter-spacing: var(--letter-spacing-h2);
     text-align: center;
-
     font-weight: 400;
     text-transform: uppercase;
     color: var(--color-white);
@@ -80,7 +79,6 @@
     font-family: var(--font-source-sans);
 
 }
-
 
 #parallax .title {
     background: var(--color-white);
